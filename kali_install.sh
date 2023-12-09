@@ -191,8 +191,8 @@ then
 fi
 
 # TOOLS
-banner "Installing DNSMASQ"
-wget -O - https://raw.githubusercontent.com/OlivierProTips/linux_install/master/dnsmasq_install.sh | bash
+# banner "Installing DNSMASQ" deja existe sur kali 
+#wget -O - https://raw.githubusercontent.com/OlivierProTips/linux_install/master/dnsmasq_install.sh | bash
 
 # MANUAL STEPS
 myTasks=(
